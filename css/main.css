@@ -1,0 +1,16 @@
+.container {
+	width: 1280px;
+}
+
+.hide-on-med-and-down {
+	display: inline-table;
+}
+
+nav ul li {
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+.redes-sociales {
+	display: inline-table;
+}
